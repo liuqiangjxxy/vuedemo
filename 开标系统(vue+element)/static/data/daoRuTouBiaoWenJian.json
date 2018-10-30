@@ -1,0 +1,212 @@
+[
+  {
+    "UUID": 0,
+    "companyName": "1天马科技",
+    "companyNo": "5940389509480",
+    "tenderDocuments_decode": "已解密",
+    "tenderDocuments_import": "已导入",
+    "billFile_decode": "已解密",
+    "billFile_import": "已导入",
+    "nadmi_reason": "不受理 - 无法解密投"
+  },
+  {
+    "UUID": 1,
+    "companyName": "2天马科技",
+    "companyNo": "5940389509481",
+    "tenderDocuments_decode": "已解密",
+    "tenderDocuments_import": "已导入",
+    "billFile_decode": "已解密",
+    "billFile_import": "未导入",
+    "nadmi_reason": "不受理 - 不满足招标要求"
+  },
+  {
+    "UUID": 2,
+    "companyName": "3天马科技",
+    "companyNo": "5940389509481",
+    "tenderDocuments_decode": "未解密",
+    "tenderDocuments_import": "已导入",
+    "billFile_decode": "已解密",
+    "billFile_import": "已导入",
+    "nadmi_reason": "不受理 - 无法导入投标文件"
+  },
+  {
+    "UUID": 3,
+    "companyName": "4天马科技",
+    "companyNo": "59403881",
+    "tenderDocuments_decode": "已解密",
+    "tenderDocuments_import": "已导入",
+    "billFile_decode": "已解密",
+    "billFile_import": "已导入",
+    "nadmi_reason": "不受理 - 无法揭秘投标文件"
+  },
+  {
+    "UUID": 4,
+    "companyName": "5天马科技",
+    "companyNo": "59409509481",
+    "tenderDocuments_decode": "未解密",
+    "tenderDocuments_import": "已导入",
+    "billFile_decode": "已解密",
+    "billFile_import": "未导入",
+    "nadmi_reason": "不受理 - 其他"
+  },
+  {
+    "UUID": 5,
+    "companyName": "6天马科技",
+    "companyNo": "59403809481",
+    "tenderDocuments_decode": "未解密",
+    "tenderDocuments_import": "已导入",
+    "billFile_decode": "未解密",
+    "billFile_import": "已导入",
+    "nadmi_reason": "不受理 - 无法解密投"
+  },
+  {
+    "UUID": 6,
+    "companyName": "7天马科技",
+    "companyNo": "59403897777509481",
+    "tenderDocuments_decode": "已解密",
+    "tenderDocuments_import": "已导入",
+    "billFile_decode": "已解密",
+    "billFile_import": "已导入",
+    "nadmi_reason": "不受理 - 无法解密投"
+  },
+  {
+    "UUID": 7,
+    "companyName": "8天马科技",
+    "companyNo": "5940389509481",
+    "tenderDocuments_decode": "未解密",
+    "tenderDocuments_import": "已导入",
+    "billFile_decode": "已解密",
+    "billFile_import": "已导入",
+    "nadmi_reason": "不受理 - 无法解密投"
+  },
+  {
+    "UUID": 8,
+    "companyName": "9天马科技",
+    "companyNo": "5940389509481",
+    "tenderDocuments_decode": "已解密",
+    "tenderDocuments_import": "已导入",
+    "billFile_decode": "未解密",
+    "billFile_import": "已导入",
+    "nadmi_reason": "不受理 - 无法解密投"
+  },
+  {
+    "UUID": 9,
+    "companyName": "10天马科技",
+    "companyNo": "5940389509481",
+    "tenderDocuments_decode": "未解密",
+    "tenderDocuments_import": "已导入",
+    "billFile_decode": "已解密",
+    "billFile_import": "未导入",
+    "nadmi_reason": "不受理 - 无法解密投"
+  },
+  {
+    "UUID": 10,
+    "companyName": "11天马科技",
+    "companyNo": "5940389509481",
+    "tenderDocuments_decode": "已解密",
+    "tenderDocuments_import": "已导入",
+    "billFile_decode": "已解密",
+    "billFile_import": "已导入",
+    "nadmi_reason": "不受理 - 无法解密投"
+  },
+  {
+    "UUID": 11,
+    "companyName": "12天马科技",
+    "companyNo": "5940389509481",
+    "tenderDocuments_decode": "未解密",
+    "tenderDocuments_import": "已导入",
+    "billFile_decode": "已解密",
+    "billFile_import": "已导入",
+    "nadmi_reason": "不受理 - 无法解密投"
+  },
+  {
+    "UUID": 12,
+    "companyName": "13天马科技",
+    "companyNo": "5940389509481",
+    "tenderDocuments_decode": "已解密",
+    "tenderDocuments_import": "已导入",
+    "billFile_decode": "未解密",
+    "billFile_import": "已导入",
+    "nadmi_reason": "不受理 - 无法解密投"
+  },
+  {
+    "UUID": 13,
+    "companyName": "14天马科技",
+    "companyNo": "5940389509481",
+    "tenderDocuments_decode": "未解密",
+    "tenderDocuments_import": "已导入",
+    "billFile_decode": "未解密",
+    "billFile_import": "已导入",
+    "nadmi_reason": "不受理 - 无法解密投"
+  },
+  {
+    "UUID": 14,
+    "companyName": "15天马科技",
+    "companyNo": "5940389509481",
+    "tenderDocuments_decode": "未解密",
+    "tenderDocuments_import": "已导入",
+    "billFile_decode": "已解密",
+    "billFile_import": "已导入",
+    "nadmi_reason": "不受理 - 无法解密投"
+  },
+  {
+    "UUID": 15,
+    "companyName": "16天马科技",
+    "companyNo": "5940389509481",
+    "tenderDocuments_decode": "未解密",
+    "tenderDocuments_import": "已导入",
+    "billFile_decode": "已解密",
+    "billFile_import": "已导入",
+    "nadmi_reason": "不受理 - 无法解密投"
+  },
+  {
+    "UUID": 16,
+    "companyName": "17天马科技",
+    "companyNo": "5940389509481",
+    "tenderDocuments_decode": "未解密",
+    "tenderDocuments_import": "已导入",
+    "billFile_decode": "已解密",
+    "billFile_import": "未导入",
+    "nadmi_reason": "不受理 - 无法解密投"
+  },
+  {
+    "UUID": 17,
+    "companyName": "18天马科技",
+    "companyNo": "5940389509481",
+    "tenderDocuments_decode": "未解密",
+    "tenderDocuments_import": "已导入",
+    "billFile_decode": "已解密",
+    "billFile_import": "已导入",
+    "nadmi_reason": "不受理 - 无法解密投"
+  },
+  {
+    "UUID": 18,
+    "companyName": "19天马科技",
+    "companyNo": "5940389509481",
+    "tenderDocuments_decode": "未解密",
+    "tenderDocuments_import": "已导入",
+    "billFile_decode": "已解密",
+    "billFile_import": "已导入",
+    "nadmi_reason": "不受理 - 无法解密投"
+  },
+  {
+    "UUID": 19,
+    "companyName": "20天马科技",
+    "companyNo": "5940389509481",
+    "tenderDocuments_decode": "未解密",
+    "tenderDocuments_import": "已导入",
+    "billFile_decode": "已解密",
+    "billFile_import": "未导入",
+    "nadmi_reason": "不受理 - 无法解密投"
+  },
+  {
+    "UUID": 20,
+    "companyName": "21天马科技",
+    "companyNo": "5940389509481",
+    "tenderDocuments_decode": "未解密",
+    "tenderDocuments_import": "已导入",
+    "billFile_decode": "已解密",
+    "billFile_import": "已导入",
+    "nadmi_reason": "不受理 - 无法解密投"
+  }
+]

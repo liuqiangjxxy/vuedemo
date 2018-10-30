@@ -1,0 +1,98 @@
+@charset "utf-8";
+body{font:16px/1.7 Arial,"Microsoft YaHei",Tahoma,Verdana,Helvetica, sans-serif;}
+
+/*字体大小变化部分*/
+.f-s-0{font-size: 12px;}
+.f-s-1{font-size: 13px;}
+.f-s-2{font-size: 14px;}
+.f-s-3{font-size: 15px;}
+.f-s-4{font-size: 16px;}
+.f-s-5{font-size: 17px;}
+.f-s-6{font-size: 18px;}
+.f-s-7{font-size: 19px;}
+.f-s-8{font-size: 20px;}
+.f-s-9{font-size: 21px;}
+.f-s-10{font-size:22px;}
+.f-s-11{font-size: 23px;}
+.f-s-12{font-size: 24px;}
+.f-s-13{font-size: 25px;}
+.f-s-14{font-size: 26px;}
+
+/*固定 字体大小*/
+.fixed-f-s-0{font-size: 10px;}
+.fixed-f-s-1{font-size: 11px;}
+.fixed-f-s-2{font-size: 12px;}
+.fixed-f-s-3{font-size: 13px;}
+.fixed-f-s-4{font-size: 14px;}
+.fixed-f-s-5{font-size: 15px;}
+.fixed-f-s-6{font-size: 16px;}
+.fixed-f-s-7{font-size: 17px;}
+.fixed-f-s-8{font-size: 18px;}
+.fixed-f-s-9{font-size: 19px;}
+.fixed-f-s-10{font-size: 20px;}
+.fixed-f-s-11{font-size: 21px;}
+.fixed-f-s-12{font-size: 22px;}
+.fixed-f-s-13{font-size: 23px;}
+.fixed-f-s-14{font-size: 24px;}
+
+/*字体*/
+
+/*固定字体*/
+.pop-up-box .title{font-size: 16px;}
+.pop-up-box .name{font-size: 16px;}
+.bnt_box2 a{font-size: 16px;}
+.head_top_one{font-size: 14px}
+.head_top_two{font-size: 14px;}
+
+.pop-up-title p{font-size: 18px;}
+.leftsideBar_name{font-size: 16px;}
+.left_main>ul{font-size: 16px;}
+.state_explain ul{font-size: 14px;}
+
+.head_top .dropdown-menu{font-size: 14px;}
+
+/*选择标段*/
+.xuanzebiaoduan{min-width: 1500px!important;}
+.search_box .search_bnt{font-size: 16px;padding: 7px 25px;  height: 36px!important;}
+.search_box{height:38px;}
+.search_box input{font-size: 16px;}
+
+.subTitle{height: 65px;line-height: 35px;font-size: 18px;}
+
+
+/*修改 element-ui*/
+.el-form-item__label{
+  font-size: 16px;
+}
+.el-table th div, .el-table th>.cell{
+  font-size: 17px;
+}
+.el-table--mini, .el-table--small, .el-table__expand-icon{
+  font-size: 16px;
+}
+.el-button--mini, .el-button--small{
+  font-size: 16px;
+}
+.search_box .el-input--small .el-input__inner,.el-form-item__label{
+  height: 36px!important;
+  line-height: 36px!important;
+}
+.el-button--small, .el-button--small.is-round {
+  padding: 8px 15px;
+}
+.el-checkbox__label{font-size: 16px;}
+
+/*修改翻页字体大小*/
+.el-pagination__sizes .el-input .el-input__inner{
+  font-size: 15px;
+}
+.el-pagination button, .el-pagination span:not([class*=suffix]){
+  font-size: 15px;
+}
+.el-pager li{
+  font-size: 15px;
+}
+
+
+
+
